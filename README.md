@@ -1,15 +1,29 @@
-<<<<<<< HEAD
-# React + Vite
+# Creatorverse
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Creatorverse is a web application designed to showcase and manage content creators. Built with React and Vite, it provides a user-friendly interface for adding, viewing, editing, deleting and managing information about various creators.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-"# Prework" 
-"# Prework" 
-"# Prework"  git init git add README.md git commit -m "first commit" git branch -M main git remote add origin https://github.com/Maryam-Nisar/Prework.git git push -u origin main
-=======
-# Prework
->>>>>>> 11c5e08ac393936b04873581caa6866389375340
+- **Add Creators**: Include details such as name, description, image URL, and social media links.
+- **View Creators**: Browse through a list of creators with their associated information.
+- **Edit Creators**: Update the details of existing creators.
+- **Delete Creators**: Remove creators from the list.
+- **Responsive Design**: Ensures compatibility across different devices and screen sizes.
+
+## Technologies
+
+- **Frontend**: React, Vite
+- **Backend**: Supabase for database management
+- **Styling**: Custom CSS with responsive design principles
+
+## Getting Started
+
+### Prerequisites
+
+Ensure you have [Node.js](https://nodejs.org/) and [Yarn](https://classic.yarnpkg.com/en/) installed on your machine.
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Nisar-Maryam/Prework.git
